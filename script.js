@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
         text: nombres,
         marker: {
             size: 12,
-            color: "red"
+            color: "blue"
         }
     }], {
         mapbox: {
